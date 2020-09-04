@@ -1,4 +1,4 @@
-import 'dart:html';
+
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
@@ -57,7 +57,7 @@ class MyApp extends StatelessWidget {
         body: new  ListView(
           children: <Widget> [
            new Image.asset(
-        'Zoop-unsplash.jpg',
+        'rupal.jpg',
           fit: BoxFit.cover
         ),
             titleSelection
