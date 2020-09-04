@@ -57,7 +57,7 @@ class MyApp extends StatelessWidget {
         body: new  ListView(
           children: <Widget> [
            new Image.asset(
-        'rupal.jpg',
+        'assets/rupal.jpg',
           fit: BoxFit.cover
         ),
             titleSelection
